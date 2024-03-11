@@ -72,7 +72,7 @@ const Hero = () => {
         Full Stack Developer
       </motion.div>
       <div className="imageContainer">
-        <img src="./shub.png" alt="" />
+        <img className="heroImage" src="./shub.png" alt="" />
       </div>
     </div>
   );

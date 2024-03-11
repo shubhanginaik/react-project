@@ -52,12 +52,16 @@
     top: 0;
     right: 0;
     left: 50%;
+    .heroImage {
+      height: 100%;
+    }
   }
 
   .slidingTextContainer {
     position: absolute;
     font-size: 50vh;
     color: #ffffff09;
+    width: 50%;
     bottom: -120px;
     white-space: nowrap;
     font-weight: bold;
