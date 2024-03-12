@@ -29,7 +29,12 @@ const Parallax = ({ type }) => {
       <motion.div className="mountains"></motion.div>
       <motion.div
         className="planets"
-        style={{ y: yBg }}
+        style={{
+          y: yBg,
+          backgroundImage: `url(${
+            type === "services" ? "/planets.png" : "sun.png"
+          })`,
+        }}
         animate={{
           rotate: 180, // Rotate the div 360 degrees
         }}
