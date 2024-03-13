@@ -69,10 +69,21 @@
     display: flex;
     max-width: 1366px;
     margin: auto;
-  }
 
-  .box {
-    padding: 50px;
-    border: 0.5px;
+    .box {
+      padding: 50px;
+      border: 0.5px solid gray;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      button {
+        padding: 10px;
+        background-color: orange;
+
+        border: none;
+        cursor: pointer;
+      }
+    }
   }
 }
