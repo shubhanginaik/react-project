@@ -63,13 +63,11 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <div className="title">
-            <h2>Branding</h2>
+            <h2>Version Control System </h2>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
-            adipisci excepturi dicta nulla dolor laudantium reprehenderit
-            officia labore consequuntur fugit fugiat, eaque voluptatibus sit
-            praesentium unde voluptates provident, natus cupiditate.
+            Effectively utilise feature such as branching merging and pull
+            requests. Github, Gitlab, Gerrit.
           </p>
           <button>Go</button>
         </motion.div>
@@ -78,13 +76,13 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <div className="title">
-            <h2>Branding</h2>
+            <h2>Software Development</h2>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
-            nemo molestiae modi, tenetur aperiam fugiat, totam autem accusantium
-            sed pariatur maxime voluptate veritatis sit harum eum unde alias
-            similique tempore!
+            Well versed with software development practices such as Agile
+            methodologies, Scrum. Ability to work in cross functional teams. I
+            have experience in writting clean, maintaible code, conducting code
+            reviews, and refactoring code to improve performance and scalabilty.
           </p>
           <button>Go</button>
         </motion.div>
@@ -93,12 +91,12 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <div className="title">
-            <h2>Branding</h2>
+            <h2>Testing Frameworks and Tools</h2>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius nemo
-            maxime magnam magni voluptas dolores dicta nam! Quasi ratione labore
-            et amet explicabo aut cupiditate nisi eveniet, rerum, odit impedit.
+            Expertise in design and write tests using Jest, GoogleTest, Pytest.
+            Understanding of basics of Selenium, Mocha. I Have ISTQB
+            certification and Learning Java with Selenium Udemy certification.
           </p>
           <button>Go</button>
         </motion.div>
@@ -107,12 +105,11 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <div className="title">
-            <h2>Branding</h2>
+            <h2>Continuous Integration / Continuous Deployment (CI/CD)</h2>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius nemo
-            maxime magnam magni voluptas dolores dicta nam! Quasi ratione labore
-            et amet explicabo aut cupiditate nisi eveniet, rerum, odit impedit.
+            Understanding of CI/CD pipeline automate the process of testing
+            building, and deploying code changes.
           </p>
           <button>Go</button>
         </motion.div>
